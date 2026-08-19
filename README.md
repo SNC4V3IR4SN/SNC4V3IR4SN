@@ -24,7 +24,7 @@
 ## 🛠️ Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,git,github,mysql" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,git,mysql" />
 </p>
 
 ### 📚 Conhecimentos
@@ -33,10 +33,8 @@
 * 🎨 CSS
 * ⚡ JavaScript
 * 🟢 Node.js
-* 🚂 Express
 * 🗄️ MySQL
 * 🔧 Git
-* 🐙 GitHub
 
 ---
 
@@ -44,10 +42,19 @@
 
 Aqui você pode encontrar alguns dos projetos que estou desenvolvendo durante meus estudos.
 
-🔹 **Projetos em JavaScript**
-🔹 **APIs com Node.js e Express**
-🔹 **Projetos com HTML e CSS**
-🔹 **Projetos acadêmicos**
+🔹 Projetos em JavaScript
+🔹 APIs com Node.js
+🔹 Projetos com HTML e CSS
+🔹 Projetos acadêmicos
+
+---
+
+## 📊 Estatísticas
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight" height="170">
+</p>
 
 ---
 
