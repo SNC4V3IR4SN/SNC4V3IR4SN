@@ -51,23 +51,4 @@ Aqui você pode encontrar alguns dos projetos que estou desenvolvendo durante me
 
 ---
 
-## 📊 GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight" height="170">
-</p>
-
----
-
-## 📫 Contato
-
-<p align="center">
-  <a href="https://github.com/SEU-USUARIO">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-</p>
-
----
-
 ⭐ **Sempre buscando aprender, praticar e evoluir na programação!**
